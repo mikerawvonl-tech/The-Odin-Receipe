@@ -18,9 +18,11 @@ h2 {
     }
 
 a{
+    text-align: center ;
     font-size: 1.3rem;
     color: #000000;
     text-decoration: none;
+    
     }
 
 div {
@@ -29,6 +31,20 @@ div {
     text-align: left;
    
     }
+    
 li {
     text-align: left;
-}
+    }
+
+.container {
+
+    display: block
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+    }
+
+.main {
+    text-align: center;
+    }
