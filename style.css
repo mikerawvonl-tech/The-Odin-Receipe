@@ -40,7 +40,7 @@ li {
     font-size: 1,8rem;
     }
 
-img {
+.pict {
     width: 600px;
     border-radius: 60px;
 }
@@ -60,6 +60,14 @@ img {
     }
 
 .footer {
+
+    width: auto;
+    height: 40px;
+    font-size: 0.9rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 
 }
 
