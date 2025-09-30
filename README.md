@@ -1,4 +1,4 @@
-# The-Odin-Receipe
+# The-Odin-Recipe
 A Practice Lesson from "The Odin Project" to make a simple Homepage
 
 I will learn the simple build up of linked pages including list (ol,ul)
@@ -9,3 +9,6 @@ I also tried to put some funny stuff in it, cause receipes could be sometimes bo
 
 
 I hope you will enjoy this simple receipes.
+
+I added also after the Flexbox lesson, some
+flexbox items and also a footer.
